@@ -1,4 +1,5 @@
-# Safe Call
+# Safe Call 
+GH_PAGES - https://sherjlok15.github.io/js_safe-call/
 
 1. Create a function called `safeCall` that accepts another function `f` as a parameter, calls `f` without any arguments and returns `true` if `f` has executed without any errors or `false` if `f` has thrown an error. Sample usage:
 
